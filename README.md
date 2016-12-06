@@ -1,3 +1,5 @@
+###欢迎加入，TensorFlow机器学习社区 348036482
+
 # TensorFlow / Deep Learning Tutorial in Chinese 中文教程
 
 Open Source Technology means to be shared across the world.
